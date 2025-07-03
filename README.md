@@ -19,6 +19,6 @@ Data Preprocessing
 <br>Metrics Measured
 - Root Mean Square Error (RMSE)
 - Mean Absolute Percentage Error (MAPE)
-- Explainability (feature coefficients / SHAP)
+- Explainability (Feature Coefficients / SHAP)
 
 ## Results
